@@ -1,6 +1,6 @@
 # benchspark
 
-Typical distributed dataflow jobs for performance benchmarking.
+Typical Spark jobs for performance benchmarking.
 
 Currently available Spark jobs (including dataset generators):
 
@@ -24,4 +24,9 @@ To compile the jobs to a jar file:
 cd spark
 sbt package
 ```
+
+## Getting Started
+
+1. Adjust `run_scripts/submit_local_job` to your local setup and execute it.
+2. Later you can extend the script to submit jobs to a cluster that is available to you, be that in a public cloud or an on-premise setup.
 
