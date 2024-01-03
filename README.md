@@ -1,6 +1,6 @@
 # benchspark
 
-Typical Spark jobs for performance benchmarking.
+An extensible toolset for Spark performance benchmarking.
 
 Currently available Spark jobs (including dataset generators):
 
