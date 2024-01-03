@@ -16,8 +16,6 @@ Currently available Spark jobs (including dataset generators):
 | Text | Sort |
 | Text | WordCount |
 
-Perhaps Flink equivalents will be added at some point
-
 ## Compilation
 
 To compile the jobs to a jar file:
