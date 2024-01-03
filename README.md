@@ -1,6 +1,6 @@
 # benchspark
 
-Typical distribute dataflow jobs for performance benchmarking.
+Typical distributed dataflow jobs for performance benchmarking.
 
 Currently available Spark jobs (including dataset generators):
 
